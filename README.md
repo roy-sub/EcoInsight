@@ -32,6 +32,8 @@ By referencing essential facts from Greentumble, we will estimate the amount of 
 ## 6. Tableau Dashboard Creation
 To make the analysis easily understandable, we will create a user-friendly report or dashboard using Tableau. This will visually represent key findings and trends, providing stakeholders with a clear overview of waste management and recycling in Singapore.
 
+![dashboard](https://github.com/roy-sub/Recycled-Energy-Saved-in-Singapore/blob/main/Images/tableau%20dashboard.png)
+
 # Conclusion
 
 Through this comprehensive analysis, we aim to provide valuable insights into Singapore's waste management practices, recycling rates, and the associated energy-saving benefits. The Tableau dashboard will serve as a user-friendly tool for stakeholders to grasp the findings effectively and make informed decisions regarding environmental sustainability.
